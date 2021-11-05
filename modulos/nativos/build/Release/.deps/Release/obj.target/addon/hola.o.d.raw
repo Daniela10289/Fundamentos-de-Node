@@ -1,0 +1,8 @@
+Release/obj.target/addon/hola.o: ../hola.cc \
+ /home/danielap/.cache/node-gyp/12.22.7/include/node/node.h \
+ /home/danielap/.cache/node-gyp/12.22.7/include/node/v8.h \
+ /home/danielap/.cache/node-gyp/12.22.7/include/node/v8-internal.h \
+ /home/danielap/.cache/node-gyp/12.22.7/include/node/v8-version.h \
+ /home/danielap/.cache/node-gyp/12.22.7/include/node/v8config.h \
+ /home/danielap/.cache/node-gyp/12.22.7/include/node/v8-platform.h \
+ /home/danielap/.cache/node-gyp/12.22.7/include/node/node_version.h
