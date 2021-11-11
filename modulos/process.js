@@ -13,4 +13,4 @@ process.on('uncaughtException', (err, origen) => {
     console.error(err);
 });
 
-functionQueNoExiste();
+// functionQueNoExiste();
