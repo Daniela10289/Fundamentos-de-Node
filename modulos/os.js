@@ -29,10 +29,16 @@ const os = require('os');
 // // memoria total
 // console.log(gb(os.totalmem()));
 
-
+// muestra la carpeta raiz
 console.log(os.homedir());
+
+//carpeta temporal
 console.log(os.tmpdir());
+
+// acceder al host de la maquina
 console.log(os.hostname());
+
+// interfaz de red
 console.log(os.networkInterfaces());
 
 
